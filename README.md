@@ -1,0 +1,2 @@
+# BIKE-RENTAL-DEMAND-FORECASTING-SYSTEM-BASED-ON-WEATHER-CONDITIONS-TIME-AND-SEASONAL-TRENDS
+Bike-sharing services experience significant fluctuations in rental demand due to changing weather conditions, time of day, holidays, and seasonal variations. Traditional demand estimation methods often rely on historical averages, making it difficult to accurately predict future demand and optimize bike availability.
